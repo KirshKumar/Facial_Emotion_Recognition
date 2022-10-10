@@ -9,3 +9,7 @@ How to run this file:
 1) Download all the files and save them in a folder.
 2) Install the following libraries : opencv, tensorflow, pathlib, keras and numpy.
 3) Run the take_image.py file.
+
+
+Example:-
+![image](https://user-images.githubusercontent.com/89193340/194897009-110e19eb-234a-49a4-b98c-9093c4799467.png)
